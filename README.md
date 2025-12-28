@@ -41,7 +41,6 @@ graph TD
         Auth --> DB
         Rep --> DB
         
-        API --> Cache[(Redis Cache)]
     end
     
     API -.-> Swagger[Swagger Docs]
