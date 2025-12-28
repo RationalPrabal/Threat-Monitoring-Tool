@@ -1,0 +1,13 @@
+Django==4.2.8
+djangorestframework==3.14.0
+djangorestframework-simplejwt
+python-decouple==3.8
+dj-database-url
+psycopg2
+
+django-cors-headers==4.3.1
+django-filter==23.5
+pytest==7.4.3
+pytest-django==4.7.0
+factory-boy==3.3.0
+drf-spectacular==0.26.5
